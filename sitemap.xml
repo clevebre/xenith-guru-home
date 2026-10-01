@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://xenith.guru/</loc><lastmod>2026-10-01</lastmod></url><url><loc>https://xenith.guru/constellation/</loc><lastmod>2026-10-01</lastmod></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://xenith.guru/</loc></url>
+<url><loc>https://xenith.guru/start/</loc></url>
+<url><loc>https://xenith.guru/lessons/</loc></url>
+<url><loc>https://xenith.guru/lessons/what-does-a-chat-assistant-do/</loc></url>
+<url><loc>https://xenith.guru/lessons/how-do-i-ask-clearly/</loc></url>
+<url><loc>https://xenith.guru/lessons/how-do-i-check-an-answer/</loc></url>
+<url><loc>https://xenith.guru/lessons/what-should-i-hand-over/</loc></url>
+<url><loc>https://xenith.guru/lessons/how-do-i-stay-responsible/</loc></url>
+<url><loc>https://xenith.guru/lessons/what-happens-to-what-i-type/</loc></url>
+<url><loc>https://xenith.guru/practice/</loc></url>
+<url><loc>https://xenith.guru/glossary/</loc></url>
+<url><loc>https://xenith.guru/about/</loc></url>
+<url><loc>https://xenith.guru/constellation/</loc></url>
+</urlset>
